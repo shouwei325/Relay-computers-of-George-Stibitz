@@ -134,29 +134,29 @@ Stibitz設計最大的計算機也是此系列最後一個叫做模型5號，在
 
 ## 單字
 
-Incorporated 合併
-Institution 機構、制度
-Synonymous 同義的
-Frontiers 邊疆、前沿
-Scheme 方案、格式
-Diodes 二極管
-point transistor 點接觸晶體管
-modem 數據機
-tobacco 煙草
-arithmetic 算術
- interim 臨時
-circuits 電路
-amplifier 放大器
-modification 修改
-panel 面板
-registers 寄存器
-prefix 前綴
-terminal 終端
-teletype 電傳打字
-foreshadowed 預兆
-unduly 過分地
-perforated 穿孔
-antiaircraft fire 防空火力
-sophisticated 複雜的
-intermittently 間歇地
-malfunctions 故障
+Incorporated 合併<br>
+Institution 機構、制度<br>
+Synonymous 同義的<br>
+Frontiers 邊疆、前沿<br>
+Scheme 方案、格式<br>
+Diodes 二極管<br>
+point transistor 點接觸晶體管<br>
+modem 數據機<br>
+tobacco 煙草<br>
+arithmetic 算術<br>
+ interim 臨時<br>
+circuits 電路<br>
+amplifier 放大器<br>
+modification 修改<br>
+panel 面板<br><br>
+registers 寄存器<br>
+prefix 前綴<br>
+terminal 終端<br>
+teletype 電傳打字<br>
+foreshadowed 預兆<br>
+unduly 過分地<br>
+perforated 穿孔<br>
+antiaircraft fire 防空火力<br>
+sophisticated 複雜的<br>
+intermittently 間歇地<br>
+malfunctions 故障<br>
