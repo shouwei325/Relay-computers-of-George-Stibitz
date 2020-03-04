@@ -138,7 +138,7 @@ Incorporated 合併
 Institution 機構、制度
 Synonymous 同義的
 Frontiers 邊疆、前沿
-Scheme 方案 格式
+Scheme 方案、格式
 Diodes 二極管
 point transistor 點接觸晶體管
 modem 數據機
