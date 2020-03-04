@@ -148,7 +148,7 @@ arithmetic 算術<br>
 circuits 電路<br>
 amplifier 放大器<br>
 modification 修改<br>
-panel 面板<br><br>
+panel 面板<br>
 registers 寄存器<br>
 prefix 前綴<br>
 terminal 終端<br>
