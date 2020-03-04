@@ -135,12 +135,12 @@ Stibitz設計最大的計算機也是此系列最後一個叫做模型5號，在
 單字
 
 Incorporated 合併
-Institution 機構 制度
+Institution 機構、制度
 Synonymous 同義的
-Frontiers 邊疆 前沿
+Frontiers 邊疆、前沿
 Scheme 方案 格式
 Diodes 二極管
-point transistor點接觸晶體管
+point transistor 點接觸晶體管
 modem 數據機
 tobacco 煙草
 arithmetic 算術
@@ -149,14 +149,14 @@ circuits 電路
 amplifier 放大器
 modification 修改
 panel 面板
-registers寄存器
-prefix前綴
+registers 寄存器
+prefix 前綴
 terminal 終端
 teletype 電傳打字
 foreshadowed 預兆
-unduly過分地
+unduly 過分地
 perforated 穿孔
 antiaircraft fire 防空火力
-sophisticated複雜的
-intermittently間歇地
-malfunctions故障
+sophisticated 複雜的
+intermittently 間歇地
+malfunctions 故障
