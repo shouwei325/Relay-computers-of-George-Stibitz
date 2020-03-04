@@ -132,7 +132,7 @@ Stibitz設計最大的計算機也是此系列最後一個叫做模型5號，在
 
 
 
-單字
+## 單字
 
 Incorporated 合併
 Institution 機構、制度
